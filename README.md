@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![lokoto4eg telegram](https://raw.githubusercontent.com/warsngl/lokoto4eg/main/Screenshot%20(11).png)](https://t.me/lokoto4eg)
+[![lokotoeg vk](https://github.com/warsngl/lokoto4eg/blob/main/Screenshot%20(9).png?raw=true)](https://www.vk.com/lokot3000)
+---
+
+📒 [Frontend development](https://vuejs.org/) 📙 [FullStack](https://nuxtjs.org/)   
+🏷️ Vue.js 🏷️ HTML5 🏷️ JavaScript 🏷️ ES6 🏷️ Websites 🏷️ Design 🏷️ Freelance
+---
+
+> Please contact me via [email](mailto:lokoto4eg@gmail.com) or [telegram](http://t.me/lokoto4eg)
 <!--
 **warsngl/warsngl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
