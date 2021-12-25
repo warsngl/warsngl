@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-[telegram](https://t.me/lokoto4eg)
-[vk.com](https://vk.com/lokot3000)
+[Telegram](https://t.me/lokoto4eg)
+[VK.com](https://vk.com/lokot3000)
 ---
 
-📒 [Frontend development](https://vuejs.org/) 
-🏷️ Vue.js 🏷️ HTML5 🏷️ JavaScript 🏷️ ES6 🏷️ Websites 🏷️ Design 🏷️ Freelance
+Frontend, Vue.js, JavaScript, Telegram Bots, Freelance
 ---
 
-> Please contact me via [email](mailto:lokoto4eg@gmail.com) or [telegram](http://t.me/lokoto4eg)
+> Please contact me via [Email](mailto:lokoto4eg@gmail.com) or [Telegram](http://t.me/lokoto4eg)
 <!--
 **warsngl/warsngl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
